@@ -3,7 +3,7 @@ package gogopb
 import (
 	"github.com/fangjie-luoxi/cellnet"
 	"github.com/fangjie-luoxi/cellnet/codec"
-	"github.com/golang/protobuf/proto"
+	"github.com/gogo/protobuf/proto"
 )
 
 type gogopbCodec struct {
